@@ -2,7 +2,7 @@
 A (more) feature-complete tool to find the IDs of sounds and work with them in-game.
 
 ## Features
-  - Toggleable sound display that shows all sounds that are and have been playing.
+  - Toggleable sound display that shows all sounds that are and have been playing
   - Mouse control to play, stop and manage all sounds in the list
   - Keyboard shortcuts to toggle and clear the list, as well as to stop all currently playing sounds
 
