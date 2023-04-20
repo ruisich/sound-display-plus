@@ -1,5 +1,5 @@
 # Sound Display+
-A (more) feature-complete tool to find the IDs of sounds and work with them in-game.
+A (more feature-complete) tool for The Binding of Isaac: Repentance to find IDs of sounds and work with them in-game. 
 
 ## Features
   - Toggleable sound display that shows all sounds that are and have been playing
